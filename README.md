@@ -7,7 +7,7 @@ W tej lekcji chciałbym przedstawić wam podstawowe zagadnienia dotyczące pisan
 #### Jakie zagadnienia będzie zawierać lekcja?
 * #### Teoria:
     - [Deklaracja interpretera bash w skrypcie, uruchomienie skryptu.](https://github.com/wojtek2kdev/Bash-lesson/blob/master/Point_01.md)
-    - [Odwoływanie się do innego skryptu]()
+    - [Odwoływanie się do innego skryptu](https://github.com/wojtek2kdev/Bash-lesson/Point_02.md)
     - [Zmienna, pobieranie zmiennej od użytkownika lub z polecenia, uzycie zmiennej]()
     - [Instrukcja warunkowa, operatory porownania]()
     - [Petla, iterator, wykorzystanie pętli]()
