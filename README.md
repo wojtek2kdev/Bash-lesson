@@ -6,13 +6,13 @@ W tej lekcji chciałbym przedstawić wam podstawowe zagadnienia dotyczące pisan
 
 #### Jakie zagadnienia będzie zawierać lekcja?
 * #### Teoria:
-    - [Deklaracja interpretera bash w skrypcie.]()
+    - [Deklaracja interpretera bash w skrypcie, uruchomienie skryptu.]()
     - [Odwoływanie się do innego skryptu]()
     - [Zmienna, pobieranie zmiennej od użytkownika lub z polecenia, uzycie zmiennej]()
     - [Instrukcja warunkowa, operatory porownania]()
     - [Petla, iterator, wykorzystanie pętli]()
     - [Wyswietlanie tekstu, formatowanie - kolory, pogrubienie itp]()
 * #### Praktyka:
-    1. [Skrypt sprawdzajacy czy jestes pelnoletni, na podstawie daty urodzenia]()
-    2. [Skrypt do wyswietlenia wszystkich hostow sieci.]()
+    - [Skrypt sprawdzajacy czy jestes pelnoletni, na podstawie daty urodzenia]()
+    - [Skrypt do wyswietlenia wszystkich hostow sieci.]()
 
