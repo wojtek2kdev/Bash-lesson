@@ -32,4 +32,4 @@ echo "Hello world"
 * Czym jest Shebang.
 * Jak zadeklarować interpreter skryptu .
 * Jak uruchomić pierwszy skrypt.
-#### Przejdź do: [Odwoływanie się do innego skryptu](https://github.com/wojtek2kdev/Bash-lesson/Point_02.md)
+#### Przejdź do: [Odwoływanie się do innego skryptu](https://github.com/wojtek2kdev/Bash-lesson/blob/master/Point_02.md)
