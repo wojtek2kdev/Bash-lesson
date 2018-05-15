@@ -28,4 +28,4 @@ source /home/Wojtek/disable.sh -pc
 * Podanie ścieżki do skryptu (tylko gdy skrypt ma zadeklarowany interpreter)
 * Użycie wbudowanego polecenia bash'a o nazwie **source**
 * Podanie ścieżki do interpretera i skryptu.
-#### Przejdź do: [Zmienna, pobieranie zmiennej od użytkownika lub z polecenia, uzycie zmiennej]()
+#### Przejdź do: [Zmienna, pobieranie zmiennej od użytkownika lub z polecenia, uzycie zmiennej](https://github.com/wojtek2kdev/Bash-lesson/blob/master/Point_03.md)
