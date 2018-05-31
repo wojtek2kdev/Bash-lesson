@@ -6,10 +6,8 @@ Aby nasz skrypt został interpretowany przez interpreter bash należy na począt
 ```sh
 #!/bin/bash
 ```
-Lecz jeżeli chcielibyśmy wywołać skrypt napisany w języku python, wtedy należy podać ścieżkę do interpretera python, np:
-```sh
-#!/usr/bin/python3.6
-```
+Lecz jeżeli chcielibyśmy wywołać skrypt napisany w innym języku niż bash np. ksh, zsh czy csh wtedy trzeba podać ścieżkę do danego interpretera.
+
 Gdy mamy zadeklarowany interpreter dla naszego skryptu, możemy go uruchomić, lecz najpierw nadajmy mu stosowne uprawnienia:
 ```
 $ sudo chmod a+x nazwa_skryptu.sh 
