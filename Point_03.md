@@ -95,7 +95,7 @@ x=$((2+3))
 * Jak tworzyć i usuwać zmienną.
 * Jak tworzyć wyrażenia arytmetyczne.
 * Jak pobierać dane wejściowe od użytkownika oraz jak używać parametrów wywołania.
-#### Przejdź do: [Instrukcja warunkowa, operatory porownania]()
+#### Przejdź do: [Instrukcja warunkowa, operatory porownania](https://github.com/wojtek2kdev/Bash-lesson/blob/master/Point_04.md)
 
 ### Materiał dodatkowy:
 Zmienne, które tworzyliśmy były dostępne tylko z poziomu skryptu, w którym się znajdowały, jest to duży plus, gdyż nie nastąpi niepożądana modyfikacja zmiennej w innym skrypcie w systemie. Jeżeli mamy potrzebe wykorzystania zmiennej w innym skrypcie, który wywołuje nasz skrypt, wystarczy, że skorzystamy z polecenia **export**.
