@@ -9,10 +9,10 @@ W tej lekcji chciałbym przedstawić wam podstawowe zagadnienia dotyczące pisan
     - [Deklaracja interpretera bash w skrypcie, uruchomienie skryptu.](https://github.com/wojtek2kdev/Bash-lesson/blob/master/Point_01.md)
     - [Odwoływanie się do innego skryptu](https://github.com/wojtek2kdev/Bash-lesson/blob/master/Point_02.md)
     - [Zmienna, pobieranie zmiennej od użytkownika lub z polecenia, uzycie zmiennej](https://github.com/wojtek2kdev/Bash-lesson/blob/master/Point_03.md)
-    - [Instrukcja warunkowa, operatory porownania]()
-    - [Petla, iterator, wykorzystanie pętli]()
-    - [Wyswietlanie tekstu, formatowanie - kolory, pogrubienie itp]()
+    - [Instrukcja warunkowa, operatory porownania](https://github.com/wojtek2kdev/Bash-lesson/blob/master/Point_04.md)
+    - [Petla, iterator, wykorzystanie pętli](https://github.com/wojtek2kdev/Bash-lesson/blob/master/Point_05.md)
+    - [Wyswietlanie tekstu, formatowanie - kolory, pogrubienie itp](https://github.com/wojtek2kdev/Bash-lesson/blob/master/Point_06.md)
 * #### Praktyka:
-    - [Skrypt sprawdzajacy czy jestes pelnoletni, na podstawie daty urodzenia]()
-    - [Skrypt do wyswietlenia wszystkich hostow sieci.]()
+    - [Tworzenie złożonej struktury katalogów projektu strony internetowej]()
+    - [Skrypt sprawdzający połączenie z danymi adresami w pliku domains_list]()
 
