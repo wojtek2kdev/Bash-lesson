@@ -11,4 +11,4 @@ W każdym katalogu klasy znajdują się dwa katalogi: zadania i lekcje. W każdy
 
 Spróbuj przez chwile sam pomyśleć nad analizą zadania i sporządź liste potrzebnych rzeczy do wykonania tego ćwiczenia.
 
-Gotowe rozwiązanie znajdziesz [tutaj]().
+Gotowe rozwiązanie znajdziesz [tutaj](https://github.com/wojtek2kdev/Bash-lesson/blob/master/practice/Example_01.sh).
