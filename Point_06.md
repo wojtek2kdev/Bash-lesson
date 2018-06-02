@@ -3,11 +3,11 @@ Ten punkt nie będzie tak rozbudowany jak poprzednie punkty, zawrę tu kilka inf
 
 Do polecenia tego należy dodać przełącznik -e, który odpowiada za interpretacje znaku ucieczki. Formaty tekstu piszemy według następującego wzoru:
 
-><Esc>[NumerFormatu**m**...Tekst...
+>**esc**[NumerFormatu**m**...Tekst...
 
 **...** oznacza kolejne formaty , które mogą być łączone np. Kolor czerwony + pogrubienie + podkreślenie, lub kolejny tekst.
 
-**<Esc>** oznacza znak ucieczki, który w bashu może zostać zapisany w następujących postaciach:
+**esc** oznacza znak ucieczki, który w bashu może zostać zapisany w następujących postaciach:
 - \e
 - \033
 - \x1B
