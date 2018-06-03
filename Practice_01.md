@@ -12,3 +12,9 @@ W każdym katalogu klasy znajdują się dwa katalogi: zadania i lekcje. W każdy
 Spróbuj przez chwile sam pomyśleć nad analizą zadania i sporządź liste potrzebnych rzeczy do wykonania tego ćwiczenia.
 
 Gotowe rozwiązanie znajdziesz [tutaj]().
+
+Po wykonanym zadaniu, aby sprawdzić poprawność wykonania, wejdź do katalogu klasy i użyj polecenia **tree**. Zapewne najpierw będziesz musiał zainstalować ten program, możesz użyć do tego celu polecenia:
+
+> sudo apt install tree
+
+Następne praktyczne [zadanie](https://github.com/wojtek2kdev/Bash-lesson/blob/master/Practice_02.md)
