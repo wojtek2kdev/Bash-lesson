@@ -17,12 +17,20 @@ Spróbuj sam przez chwile się zastanowić jak zabrać się za to zadanie
 
 Output naszego skryptu po wykonaniu powinien prezentować się następująco (zakładając, że nasz komputer jest połączony z internetem):
 
+
 > **Udało się połączyć z:** facebook.com
+
 > **Udało się połączyć z:** google.com
+
 > **Nie udało się połączyć z:** jakisnieznanyadres.xdd
+
 > **Nie udało się połączyć z:** nieznanyadresinternetowy.abcde
+
 > **Udało się połączyć z:** twitter.com
+
 > **Udało się połączyć z:** github.com
+
 > **Nie udało się połączyć z:** ostatniadresnieznany.qwerty
+
 
 Przykładowe rozwiązanie zadania znajdziesz [tutaj](https://github.com/wojtek2kdev/Bash-lesson/blob/master/practice/Example_02.sh)
