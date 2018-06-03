@@ -13,6 +13,6 @@ W tej lekcji chciałbym przedstawić wam podstawowe zagadnienia dotyczące pisan
     - [Petla, iterator, wykorzystanie pętli](https://github.com/wojtek2kdev/Bash-lesson/blob/master/Point_05.md)
     - [Wyswietlanie tekstu, formatowanie - kolory, pogrubienie itp](https://github.com/wojtek2kdev/Bash-lesson/blob/master/Point_06.md)
 * #### Praktyka:
-    - [Tworzenie złożonej struktury katalogów projektu strony internetowej]()
-    - [Skrypt sprawdzający połączenie z danymi adresami w pliku domains_list]()
+    - [Tworzenie złożonej struktury katalogów projektu strony internetowej](https://github.com/wojtek2kdev/Bash-lesson/blob/master/Practice_01.md)
+    - [Skrypt sprawdzający połączenie z danymi adresami w pliku domains_list](https://github.com/wojtek2kdev/Bash-lesson/blob/master/Practice_02.md)
 
