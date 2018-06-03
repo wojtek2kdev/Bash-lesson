@@ -1,4 +1,4 @@
-# Tworzenie złożonej struktury katalogów projektu strony internetowej
+# Tworzenie złożonej struktury katalogów.
 
 Załóżmy, że mamy do stworzenia taką oto strukture katalogów:
 Katalog **klasy**, w którym znajdują się klasy: 1a, 1b, 1c, 2a, 2b, 2c, 3a, 3b, 3c.
