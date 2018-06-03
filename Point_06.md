@@ -34,4 +34,4 @@ echo -e "\e[31m\e[1mError\e[0m"
 echo -e "\e[32m\e[1m\e[4mHello\e[0m\e[1m\e[5m World\e[0m"
 ```
 
-Po tych sześciu punktach myślę, że spokojnie możemy przejść do zadań praktycznych. Przejdź [dalej]()
+Po tych sześciu punktach myślę, że spokojnie możemy przejść do zadań praktycznych. Przejdź [dalej](https://github.com/wojtek2kdev/Bash-lesson/blob/master/Practice_01.md)
